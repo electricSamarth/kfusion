@@ -37,6 +37,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include <glut.h>
 #else
 #include <GL/glut.h>
+#include <cstring>
 #endif
 
 using namespace std;
